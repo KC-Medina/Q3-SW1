@@ -1,0 +1,26 @@
+img {
+	width: 250px;
+}
+ 
+body {
+text-align: center;
+background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/e4/Color-blue.JPG?20100811194351');
+}
+
+.container{
+	box-shadow:20px 21px 3px -1px rgba(91,147,153,0.5);
+	margin-top: 35px;
+	background-color: #98D8EF;
+}	
+
+.results{
+background-color: #79D7BE;
+text-align: center;
+padding: 40px;
+width: 500px;
+margin-block: 45px;
+}
+
+
+
+
